@@ -1,6 +1,6 @@
 <!-- FRONT -->
 
-PHARRELL WILLIAMS
+PHARRELL WILLIAMS  
 
 HAPPY
 
@@ -8,7 +8,7 @@ HAPPY
 
 <!-- BACK -->
 
-| &nbsp;&nbsp; FROM DESPICABLE ME 2 &nbsp;&nbsp; |
+| &nbsp;&nbsp; FROM DESPICABLE ME 2 &nbsp;&nbsp; |  
 
 HAPPY
 
